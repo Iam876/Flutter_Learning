@@ -59,7 +59,7 @@ class BankAccount {
 void main() {
   // Create a BankAccount with an initial balance of 1000
   BankAccount myAccount = BankAccount(1000);
-
+  myAccount.balance;
   // Deposit money using the method (directly modifies the private _balance within the class)
   myAccount.depositMoney(300);
 

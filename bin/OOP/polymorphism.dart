@@ -2,6 +2,7 @@
   Polymorphism: A fundamental concept in Object-Oriented Programming (OOP).
   
   Purpose: Allows objects from different classes to be treated as instances of a common superclass.
+  -> while we use the polymorphism concept then the @override concept come automatically. 
   
   Types of Polymorphism:
     - Compile-Time Polymorphism: Achieved through method overloading (resolved during compilation).
